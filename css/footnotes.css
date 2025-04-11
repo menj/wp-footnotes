@@ -1,0 +1,21 @@
+/* Frontend Styles */
+ol.footnotes {
+    margin: 2em 0;
+    padding-left: 1.5em;
+    font-size: 0.9em;
+    color: #666;
+}
+
+.footnote-link {
+    text-decoration: none;
+    border-bottom: 1px dotted #999;
+}
+
+.footnote-link:hover {
+    border-bottom-style: solid;
+}
+
+sup .footnote-link {
+    font-size: 0.8em;
+    vertical-align: super;
+}
